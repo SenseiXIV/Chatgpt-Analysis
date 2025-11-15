@@ -14,6 +14,9 @@ Features
 
 Tech Stack
 -Python
+
 -Pandas, NumPy
+
 -scikit-learn / NLP libraries
+
 -Matplotlib / Seaborn (optional for plots)
