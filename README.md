@@ -11,8 +11,10 @@ Features
 - Review data cleaning and normalization
 - Sentiment labeling (positive, neutral, negative)
 - Machine learning / NLP model for sentiment classification
+  
 
 Tech Stack
+
 -Python
 
 -Pandas, NumPy
